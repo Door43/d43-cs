@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cs:home|Door43 (cs)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cs|d43-cs repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cs/archive/master.zip|d43-cs.zip]]
+
+**Recent Changes**
+{{changes>ns = cs}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cs|Ethnologue data]]
+
